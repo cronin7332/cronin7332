@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Recipe Recommender<br><br>👨‍💻 All of my projects are available at https://github.com/cronin7332<br><br>💬 Ask me about Javascript, MongoDB, Express Js, React Js, Node Js.<br><br>📫 How to reach me chandrakantrohit07@gmail.com<br><br>⚡ Fun fact I am an introvert with a neck for Tech.
+🔭 I’m currently working on Recipe Recommender<br><br>👨‍💻 All of my projects are available at https://github.com/cronin7332<br><br>💬 Ask me about Javascript, MongoDB, Express Js, React Js, Node Js.<br><br>📫 How to reach me chandrakantrohit07@gmail.com<br><br>⚡ Fun fact I am an Introvert with a neck for Tech.
 
 
 ## 🌐 Socials:
